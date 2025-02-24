@@ -6,7 +6,7 @@ export default function Counter() {
 
   return (
     <main className="flex flex-col min-h-screen items-center justify-center gap-4">
-      {/* Número centrado */}
+      {/* Número centradoo */}
       <h1 className="text-4xl font-bold text-gray-800">{counter}</h1>
 
       {/* Contenedor de botones con tamaño más pequeño */}
